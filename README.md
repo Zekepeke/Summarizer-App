@@ -11,4 +11,6 @@ Running the Project
 npm run dev
 
 
-![Uploading Screenshot 2024-06-08 at 8.16.47 PM.png…]()
+<img width="1067" alt="gpt" src="https://github.com/Zekepeke/Summarizer-App/assets/117707733/7e8b9a17-6520-48d7-a009-454043be445f">
+
+
