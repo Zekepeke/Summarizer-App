@@ -9,3 +9,6 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 Running the Project
 
 npm run dev
+
+
+![Uploading Screenshot 2024-06-08 at 8.16.47 PM.png…]()
