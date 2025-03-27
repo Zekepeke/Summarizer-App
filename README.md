@@ -11,6 +11,18 @@ Running the Project
 npm run dev
 
 
+## Getting Started
+
+### Compiling and Running the Project
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Zekepeke/Summarizer-App.git
+   cd Summarizer-App
+2. **Run**
+   ```bash
+    npm run dev
+
+
 
 
 
