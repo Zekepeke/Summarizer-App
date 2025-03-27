@@ -11,6 +11,6 @@ Running the Project
 npm run dev
 
 
-<img width="1067" alt="gpt" src="https://github.com/Zekepeke/Summarizer-App/assets/117707733/7e8b9a17-6520-48d7-a009-454043be445f">
+
 
 
